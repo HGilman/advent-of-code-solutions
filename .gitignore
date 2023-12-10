@@ -1,0 +1,6 @@
+.gradle
+.idea
+build
+src/**/*.txt
+.DS_Store
+gradlew
